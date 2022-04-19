@@ -1,0 +1,148 @@
+,ItemID,LocationID,ItemDescription,DateObtained,Price,Weight,OwnerID,CategoryID,CityID,Souvenir_Name,Category_Name,Location_Name,Latitude,Longitude,Owner_Name,RegionID,Region_Name,CountryID,Country_Name,City_Name
+0,1,9.0,,2019/02/15,7.5,12.0,3,7,,Grizzly Bear Mug,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3,,,,,
+1,2,9.0,,2019/02/17,9.99,20.0,3,7,,Snowy Mountain Mug,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3,,,,,
+2,3,10.0,,2019/03/05,12.99,16.0,3,7,,Lobster Mug,Kitchenware,Offshore Trap/Pot Waters Area,38.0,-82.0,Group 3,,,,,
+3,4,11.0,,2019/04/18,10.25,16.0,3,7,,Sea Lion Mug,Kitchenware,Steller Sea Lion Protection Area,57.466667,-153.433334,Group 3,,,,,
+4,5,12.0,,2019/05/07,6.91,20.0,3,7,,Coral Reef Mug,Kitchenware,Pacific Remote Islands Marine National Monument,16.736944,-169.523895,Group 3,,,,,
+5,6,13.0,,2019/06/15,8.99,12.0,3,7,,Ocean Life Mug,Kitchenware,Papahanaumokuakea Marine National Monument,25.700001,-171.733337,Group 3,,,,,
+6,7,14.0,,2019/07/21,9.75,16.0,3,7,,Landscape Mug,Kitchenware,Danville Conservation Area,38.865097,-91.504852,Group 3,,,,,
+7,8,15.0,,2019/08/01,13.25,24.0,3,7,,Bird Mug,Kitchenware,Sand Harbor State Park,39.198364,-119.930984,Group 3,,,,,
+8,9,16.0,,2019/09/15,11.4,20.0,3,7,,Dunes Mug,Kitchenware,White Sands National Park,32.77972,-106.171669,Group 3,,,,,
+9,10,17.0,,2019/10/15,19.99,12.0,3,7,,Skier Mug,Kitchenware,Jackson Hole,43.582767,-110.821999,Group 3,,,,,
+10,11,18.0,,2019/11/09,14.25,16.0,3,7,,Desert Mug,Kitchenware,Mojave National Preserve,35.141689,-115.510399,Group 3,,,,,
+11,12,9.0,,2019/11/27,12.99,20.0,3,7,,Mountain City Mug,Kitchenware,Rocky Mountain National Park,40.343182,-105.688103,Group 3,,,,,
+12,13,19.0,,2019/12/04,12.5,12.0,3,7,,Joshua Tree Mug,Kitchenware,Joshua Tree National Park,33.881866,-115.90065,Group 3,,,,,
+13,14,20.0,,2020/01/15,11.99,20.0,3,7,,River View Mug,Kitchenware,Buffalo National River,35.985512,-92.757652,Group 3,,,,,
+14,15,21.0,,2020/02/13,10.75,16.0,3,7,,Hot Springs Mug,Kitchenware,Hot Springs National Park,34.52153,-93.042267,Group 3,,,,,
+15,16,22.0,,2020/03/15,10.99,12.0,3,7,,Cave Bat Mug,Kitchenware,Kartchner Caverns State Park,31.837551,-110.347382,Group 3,,,,,
+16,17,17.0,,2021/01/11,15.0,12.0,3,7,,Cowboy Mug,Kitchenware,Jackson Hole,43.582767,-110.821999,Group 3,,,,,
+17,18,20.0,,2021/02/28,12.25,20.0,3,7,,Buffalo Mug,Kitchenware,Buffalo National River,35.985512,-92.757652,Group 3,,,,,
+18,19,18.0,,2021/03/26,9.95,16.0,3,7,,Gila Monster Mug,Kitchenware,Mojave National Preserve,35.141689,-115.510399,Group 3,,,,,
+19,20,12.0,,2021/05/08,25.0,24.0,3,7,,Pink Mug,Kitchenware,Pacific Remote Islands Marine National Monument,16.736944,-169.523895,Group 3,,,,,
+20,21,,"Very good dirt. Solid, reliable.",2007/03/21,0.0,4.0,5,6,60.0,Central Park-dirt,Geological,,,,Group 5,54.0,New York,41.0,United States,New York City
+21,22,,Dry and depressing,2009/08/01,0.0,4.0,5,6,39.0,Hollywood Bowl-dirt,Geological,,,,Group 5,6.0,California,41.0,United States,Los Angeles
+22,23,,Tastes rich in Oxygen,2010/03/11,0.0,4.0,5,6,18.0,Burham Park-dirt,Geological,,,,Group 5,34.0,Illinois,41.0,United States,Chicago
+23,24,,Unimagineable feeling between the toes,2015/12/25,0.0,4.0,5,6,14.0,Playa Tortugas-sand,Geological,,,,Group 5,61.0,Quintana Roo,23.0,Mexico,Cancun
+24,25,,High in phosphates,2018/04/22,0.0,4.0,5,6,73.0,Bukhansan National Park-dirt,Geological,,,,Group 5,24.0,Gyeonggi,35.0,South Korea,Seoul
+25,26,,"There's something fishy in here, got sick after tasting it…",2019/09/28,0.0,4.0,5,6,89.0,Wuhan Institute of Virology-dirt,Geological,,,,Group 5,32.0,Hubei,5.0,China,Wuhan
+26,27,,Very soft,2020/06/12,0.0,4.0,5,6,78.0,TEL AVIV BEACH-sand,Geological,,,,Group 5,68.0,Tel Aviv,16.0,Israel,Tel Aviv
+27,28,,Smallest dirt on earth. Pathetic,2020/08/20,0.0,4.0,5,6,40.0,Bourscheid Neige Luges-dirt,Geological,,,,Group 5,45.0,Luxembourg,20.0,Luxembourg,Luxembourg
+28,29,,It's coarse. Gets everywhere. I don't like it,2020/09/20,0.0,4.0,5,6,16.0,Lagoon Beach-sand,Geological,,,,Group 5,81.0,Western Cape,34.0,South Africa,Cape Town
+29,30,,Tastes like they have never won a war,2021/02/20,0.0,4.0,5,6,66.0,Champ de Mars-dirt,Geological,,,,Group 5,33.0,Ile-de-France,11.0,France,Paris
+30,31,,"Very soft, great color",2021/07/20,0.0,4.0,5,6,69.0,Playa del Carmen-sand,Geological,,,,Group 5,61.0,Quintana Roo,23.0,Mexico,Playa del Carmen
+31,32,,"Medium coarseness, tons of shells",2021/12/20,0.0,4.0,5,6,69.0,Playa Punta Esmeralda-sand,Geological,,,,Group 5,61.0,Quintana Roo,23.0,Mexico,Playa del Carmen
+32,33,,Looks very rich. I got a worm in here!,2021/02/20,0.0,4.0,5,6,38.0,Hyde Park-dirt,Geological,,,,Group 5,43.0,London,9.0,England,London
+33,34,,BASIC,2021/01/20,0.0,4.0,5,6,61.0,National Park-dirt,Geological,,,,Group 5,1.0,Alpes-Maritimes,11.0,France,Nice
+34,35,,Neat.,2021/03/20,0.0,4.0,5,6,84.0,Promenade des Anglais-sand,Geological,,,,Group 5,72.0,Ulaanbaatar,24.0,Mongolia,Ulaanbaatar
+35,36,,Lots of critters and life. Kinda stinky,2017/08/20,0.0,4.0,5,6,19.0,Hikkaduwa Beach-sand,Geological,,,,Group 5,82.0,Western Province,37.0,Sri Lanka,Colombo
+36,37,,Very Nice,2014/01/20,0.0,4.0,5,6,56.0,Al Bustan Beach-sand,Geological,,,,Group 5,51.0,Muscat,28.0,Oman,Muscat
+37,38,,Exotic,2000/06/20,0.0,4.0,5,6,2.0,Palm Beach-sand,Geological,,,,Group 5,15.0,Diana,21.0,Madagascar,Ambondrona
+38,39,,Better dirt than expected,2004/09/20,0.0,4.0,5,6,46.0,Parco delle fonti-dirt,Geological,,,,Group 5,20.0,Forlì-Cesena,17.0,Italy,Meldola
+39,40,,"Hints of nostalgia from the great days of the USSR; however, a bit stale",2018/07/20,0.0,4.0,5,6,42.0,Park Lenina-dirt,Geological,,,,Group 5,36.0,Kostroma Oblast,31.0,Russia,Makaryev
+40,41,,Common white quartz found in Utah,2020/06/01,0.0,,4,6,8.0,Quartz rock,Geological,,,,Group 4,73.0,Utah,41.0,United States,Beaver
+41,42,,Bronze NYC ornament bought from visitors center,2019/12/30,0.0,,4,8,60.0,NYC bronze ornament,Miscellaneous,,,,Group 4,54.0,New York,41.0,United States,New York City
+42,43,,Souvenir shop item commemorating the second ammendment.,2021/01/02,0.0,,4,11,21.0,Texas Pen,Tool,,,,Group 4,69.0,Texas,41.0,United States,Dallas
+43,44,,Cute shot glass from Key West Florida,2020/12/25,0.0,,4,7,32.0,I Got Tipsy In Key West shot glass,Kitchenware,,,,Group 4,19.0,Florida,41.0,United States,Key West
+44,45,,Sick T-Shirt from a wild PCB spring break back in '99,1999/04/27,0.0,,4,4,65.0,PCB T-Shirt,Clothing,,,,Group 4,19.0,Florida,41.0,United States,Panama City Beach
+45,46,,Raise hell and praise Dale,2008/02/05,0.0,,4,4,22.0,Daytona 500 Hat,Clothing,,,,Group 4,19.0,Florida,41.0,United States,Daytona Beach
+46,47,,9/11 Memorial bronze ornament,2020/03/14,0.0,,4,8,88.0,9/11 bronze ornament,Miscellaneous,,,,Group 4,79.0,Washington DC,41.0,United States,Washington DC
+47,48,,Started a squirt gun fight that ended the Cuban Missile Crisis,1962/08/20,0.0,,4,12,27.0,Super Soaker,Toy,,,,Group 4,38.0,La Habana,6.0,Cuba,Havana
+48,49,,Video game bought on Steam,2019/07/20,0.0,,4,12,,Oxygen Not Included,Toy,,,,Group 4,,,,,
+49,50,,Video game bought on Steam,2019/05/01,0.0,,4,12,,Stardew Valley,Toy,,,,Group 4,,,,,
+50,51,,Pencil case with a panda hugging it. ,2014/07/01,0.0,,4,11,9.0,Panda Pencil Holder,Tool,,,,Group 4,29.0,Hebei,5.0,China,Beijing
+51,52,,Pokemon Card,2010/06/10,0.0,,4,12,51.0,Shiny Limited Edition Charzard,Toy,,,,Group 4,49.0,Minnesota,41.0,United States,Minneapolis
+52,53,,Loot gained from besting pirates. ,2008/08/07,0.0,,4,6,44.0,Diamonds,Geological,,,,Group 4,47.0,Manyara,39.0,Tanzania,Babati
+53,54,,Blue Swim Suit from Toronto water park,2019/01/01,0.0,,4,4,83.0,Swim Suit,Clothing,,,,Group 4,56.0,Ontario,4.0,Canada,Toronto
+54,55,,Taxidermy tazmanian devil,2000/06/13,0.0,,4,8,44.0,Taxidermy Tazmanian Devil,Miscellaneous,,,,Group 4,47.0,Manyara,39.0,Tanzania,Babati
+55,56,,Rare green crystal,2011/08/15,0.0,,4,6,44.0,Emerald,Geological,,,,Group 4,47.0,Manyara,39.0,Tanzania,Babati
+56,57,,Orange crystal found at Utah's Topaz Mountain,1982/03/11,0.0,,4,6,82.0,Topaz,Geological,,,,Group 4,73.0,Utah,41.0,United States,Topaz Mountain
+57,58,,Rare red crystal,1937/02/25,0.0,,4,6,44.0,Ruby,Geological,,,,Group 4,47.0,Manyara,39.0,Tanzania,Babati
+58,59,,The Chef's favorite knife,1998/07/11,0.0,,4,7,38.0,Gordon Ramsey's Filet Knife,Kitchenware,,,,Group 4,43.0,London,9.0,England,London
+59,60,,Rian Johnson's Creativity that he lost before he directed the Last Jedi,2016/05/20,0.0,,4,2,30.0,Rian Johnson's Creativity,Artifact,,,,Group 4,6.0,California,41.0,United States,Hollywood
+60,61,,Commemorative replica of the first President's fabled wooden teeth,2003/03/03,0.0,,4,2,88.0,Replica George Washington Wood Teeth,Artifact,,,,Group 4,79.0,Washington DC,41.0,United States,Washington DC
+61,62,,Rarest and most expensive crystal,2011/07/11,0.0,,4,6,8.0,Red Beryl,Geological,,,,Group 4,73.0,Utah,41.0,United States,Beaver
+62,63,,Powerful shield belonging to the guard order of the town of Solitude,2014/05/19,0.0,,4,2,75.0,Shield of Solitude,Artifact,,,,Group 4,25.0,Haafingar Hold,33.0,Skyrim,Solitude
+63,64,,They said it didn't exist,2021/02/26,0.0,,4,8,50.0,LoL Player's Sanity,Miscellaneous,,,,Group 4,83.0,Wisconsin,41.0,United States,Milwaukee
+64,65,,Helmet that provides elemental resistance,2010/06/23,0.0,,4,4,35.0,Ancient Helmet of the Unburned,Clothing,,,,Group 4,66.0,Shalidor's Maze,33.0,Skyrim,Labyrinthian
+65,66,,The prized jewel of France worn by Beyonce,2009/03/30,0.0,,4,6,66.0,The Pink Panther,Geological,,,,Group 4,33.0,Ile-de-France,11.0,France,Paris
+66,67,,Item invented by the Dwemer to store culture's knowledge,2011/07/12,0.0,,4,2,70.0,Dwemer Lexicon,Artifact,,,,Group 4,62.0,Riften,33.0,Skyrim,Riften Docks
+67,68,,The hat of Rasputin (from the song),2011/11/11,0.0,,4,4,53.0,Rasputin's Hat,Clothing,,,,Group 4,12.0,Central Russia,31.0,Russia,Moscow
+68,69,,Attack damage and critical strike,2021/05/18,0.0,,4,2,79.0,Infinity Edge ,Artifact,,,,Group 4,67.0,Summoners Rift,38.0,Freljord,The Fountain
+69,70,,Unbreakable lockpick,2012/10/30,0.0,,4,11,80.0,Skeleton Key,Tool,,,,Group 4,70.0,Thieves' Guild,33.0,Skyrim,Thieves' Guild
+70,71,,Hitler's iconic mustache,1940/04/30,0.0,,4,2,26.0,Hitler's Mustache,Artifact,,,,Group 4,26.0,Hamburg,12.0,Germany,Hamburg
+71,72,,I stole this from Tom Hanks,2000/06/14,0.0,,4,2,85.0,Da Vinci's Code,Artifact,,,,Group 4,76.0,Vatican City,42.0,Vatican City,Vatican City
+72,73,,A lot of attack damage. ,2021/05/18,0.0,,4,2,79.0,BF Sword,Artifact,,,,Group 4,67.0,Summoners Rift,38.0,Freljord,The Fountain
+73,74,,Mural painting by Italian artist Leonardo da Vinci,1490/04/17,0.0,,4,1,49.0,The Last Supper,Art,,,,Group 4,42.0,Lombardy,17.0,Italy,Milan
+74,75,,Portrait painting by Italian artist Leonardo da Vinci,1507/05/20,0.0,,4,1,24.0,Mona Lisa,Art,,,,Group 4,71.0,Tuscany,17.0,Italy,Florence
+75,76,,Limestone sculpure,2020/09/12,0.0,,4,1,13.0,Sphinx,Art,,,,Group 4,23.0,Greater Cairo Regional Unit,8.0,Egypt,Cairo
+76,77,,Wrought-iron lattice tower,1887/01/28,0.0,,4,9,66.0,Eiffle Tower Postcard,Postcard,,,,Group 4,33.0,Ile-de-France,11.0,France,Paris
+77,78,,Tallest mountain in the world,2003/02/14,0.0,,4,9,29.0,Mount Everest Postcard,Postcard,,,,Group 4,31.0,Himalayas,26.0,Nepal,Qing Zang Gaoyuan
+78,79,,,2007/01/10,15.0,6.7,1,4,62.0,Tenugui Cotton Cloth Rice Grains,Clothing,,,,Group 1,18.0,Echigo,18.0,Japan,Niigata
+79,80,,,2008/06/18,20.8,19.36,1,12,73.0,12'' Ancient Traditional Korea Hanbok Doll,Toy,,,,Group 1,24.0,Gyeonggi,35.0,South Korea,Seoul
+80,81,1.0,,2019/12/23,29.95,13.4,1,8,64.0,Resort Snowglobe,Miscellaneous,Disney World,,,Group 1,19.0,Florida,41.0,United States,Orlando
+81,82,2.0,,2020/12/02,50.0,5.0,1,8,59.0,Iron Standing Dog,Miscellaneous,Austryan Crystals,,,Group 1,27.0,Haryana,14.0,India,New Delhi
+82,83,2.0,,2020/12/02,40.0,10.0,1,1,4.0,Crafts Enameled Cockatoo,Art,Austryan Crystals,,,Group 1,22.0,Georgia,41.0,United States,Atlanta
+83,84,3.0,,2013/08/23,25.0,5.0,1,1,43.0,Hand Painted Rose Flower,Art,SevenBees,,,Group 1,39.0,Lancashire,9.0,England,Manchester
+84,85,4.0,,2016/05/15,15.0,6.88,1,1,87.0,Hand Painted Enameled Telephone,Art,QIFU,,,Group 1,48.0,Mazovia,30.0,Poland,Warsaw
+85,86,5.0,,2018/05/18,22.0,8.0,1,8,83.0,Cast Iron Door Stop,Miscellaneous,AIMONOCOIN,,,Group 1,56.0,Ontario,4.0,Canada,Toronto
+86,87,,      ,2015/05/08,22.95,10.0,1,5,66.0,Organic Maple Syrup,Food,,,,Group 1,33.0,Ile-de-France,11.0,France,Paris
+87,88,6.0,,2000/01/01,9.99,5.0,1,1,36.0,Eiffel Tower Model,Art,Eiffel Tower,,,Group 1,41.0,Lima,29.0,Peru,Lima
+88,89,4.0,,2018/05/18,10.0,6.0,1,1,88.0,Metal Jewelry Box,Art,QIFU,,,Group 1,79.0,Washington DC,41.0,United States,Washington DC
+89,90,,,2002/08/03,49.99,20.0,1,4,45.0,Alpaca Poncho,Clothing,,,,Group 1,78.0,Victoria,2.0,Australia,Melbourne
+90,91,4.0,,2020/08/05,20.0,18.0,1,1,57.0,Classic Vintage Antique Heart Shape Jewelry Box,Art,QIFU,,,Group 1,52.0,Nairobi,19.0,Kenya,Nairobi
+91,92,8.0,,2016/09/23,19.99,5.0,1,4,9.0,Chicago Cubs T-Shirt,Clothing,Wrigley Field,,,Group 1,29.0,Hebei,5.0,China,Beijing
+92,93,7.0,,1999/12/24,35.99,15.0,1,1,18.0,Decorative African Wood Mask ,Art,Maasi Mara National Reserve,,,Group 1,34.0,Illinois,41.0,United States,Chicago
+93,94,,,2016/07/04,2.0,1.0,1,8,88.0,American Flag,Miscellaneous,,,,Group 1,79.0,Washington DC,41.0,United States,Washington DC
+94,95,,,2007/07/07,8.95,4.2,1,7,10.0,Shot Glass,Kitchenware,,,,Group 1,4.0,Brandenburg,12.0,Germany,Berlin
+95,96,,,2021/05/18,41.16,8.47,1,2,45.0,Vintage Maori Carving Intricate Patu Club & Long House Box Polynesian Art,Artifact,,,,Group 1,78.0,Victoria,2.0,Australia,Melbourne
+96,97,,,2021/12/25,1800000.0,17637.0,1,2,9.0,"80"" Rare 100% Purple Natural Emerald Jadeite Jade Dragon",Artifact,,,,Group 1,29.0,Hebei,5.0,China,Beijing
+97,98,,I got this because it was so weird that they sell Disney shotglasses! Does Mickey Mouse do shots?,2021/04/02,25.99,2.5,2,7,60.0,Mickey Mouse Shotglass,Kitchenware,,,,Group 2,54.0,New York,41.0,United States,New York City
+98,99,,Does the Queen use this to stir her tea?,2020/01/05,50.0,4.0,2,7,38.0,Gold Spoon,Kitchenware,,,,Group 2,43.0,London,9.0,England,London
+99,100,,"The color is so intense, I love it!",1998/06/12,45.0,8.0,2,4,55.0,Fancy Scarf,Clothing,,,,Group 2,3.0,Bavaria,12.0,Germany,Munich
+100,101,,"I found it on the beach, it's so nice and round!",2001/02/15,0.0,4.0,2,6,7.0,Smooth Rock,Geological,,,,Group 2,10.0,Catalonia,36.0,Spain,Barcelona
+101,102,,"Yeah, sure, maybe it's basic.",2005/12/17,14.99,2.0,2,7,66.0,Eiffel Tower Shotglass,Kitchenware,,,,Group 2,33.0,Ile-de-France,11.0,France,Paris
+102,103,,Someone made this by hand! It's so nice and it smells like leather.,1999/11/23,35.0,20.0,2,3,77.0,Hand-bound sketchbook,Book,,,,Group 2,53.0,New South Wales,2.0,Australia,Sydney
+103,104,,"It's heavy, but it's cool to drink out of!",2013/10/30,17.99,5.0,2,7,20.0,Stone Shotglass,Kitchenware,,,,Group 2,8.0,Capital,7.0,Denmark,Copenhagen
+104,105,,Why is it shaped like that? It looks so strange but so cool!,2012/05/24,12.99,6.0,2,7,28.0,Weird spoon,Kitchenware,,,,Group 2,74.0,Uusimaa,10.0,Finland,Helsinki
+105,106,,It really is a nice skyline,2015/07/15,2.99,1.0,2,9,39.0,City postcard,Postcard,,,,Group 2,6.0,California,41.0,United States,Los Angeles
+106,107,,"It fits perfectly in the palm of my hand, and the stripes are so cute!",2021/01/08,0.0,1.5,2,8,48.0,Red scallop shell,Miscellaneous,,,,Group 2,19.0,Florida,41.0,United States,Miami
+107,108,,"I think the top of the drum is made from papayrus, it sounds really awesome!",2012/06/28,60.0,34.0,2,8,13.0,Egyptian Drum,Miscellaneous,,,,Group 2,23.0,Greater Cairo Regional Unit,8.0,Egypt,Cairo
+108,109,,These drawings were handmade! The ink strokes are so beautiful,2007/12/30,29.99,18.0,2,3,9.0,Ink Artbook,Book,,,,Group 2,29.0,Hebei,5.0,China,Beijing
+109,110,,Don't judge me! I really like this one. The characters are cute AND deep.,2010/01/05,15.99,21.0,2,3,81.0,Manga,Book,,,,Group 2,35.0,Kanto,18.0,Japan,Tokyo
+110,111,,"It's so dark, and so smooth!",1995/11/04,0.0,5.0,2,6,73.0,Black Rock,Geological,,,,Group 2,24.0,Gyeonggi,35.0,South Korea,Seoul
+111,112,,The view is so unbelievable... the sky really looked like that in person!,2007/08/01,1.0,0.75,2,9,6.0,Sunset Postcard,Postcard,,,,Group 2,13.0,Central Thailand,40.0,Thailand,Bangkok
+112,113,,"It's so beautiful, and the patterns were sewn by hand!",2014/06/14,120.0,86.0,2,4,54.0,Sari,Clothing,,,,Group 2,46.0,Maharashtra,14.0,India,Mumbai
+113,114,,They're so tall but so beautiful! I want to live in a city like this,2011/04/05,0.8,1.0,2,9,33.0,Petronas Towers Postcard,Postcard,,,,Group 2,65.0,Selangor,22.0,Malaysia,Kuala Lumpur
+114,115,,"My cousin bought this for me when I visited because she wouldn't stop roasting me for being a tourist.... it's ironic, I promise.",2019/01/18,12.99,3.0,2,7,37.0,Union Jack Shotglass,Kitchenware,,,,Group 2,39.0,Lancashire,9.0,England,Liverpool
+115,116,,"The inside of the shell is iridescent, like a pearl. I wonder what this shell comes from.",2018/03/25,0.0,2.0,2,8,68.0,Shiny Shell,Miscellaneous,,,,Group 2,80.0,Western Australia,2.0,Australia,Perth
+116,117,,Who doesn't love a kangaroo? Aww....,2017/02/23,1.2,1.0,2,9,5.0,Kangaroo Postcard,Postcard,,,,Group 2,55.0,North Island,27.0,New Zealand,Auckland
+117,118,,They say they made this with the same methods that Ancient Romans used. It's that why it's so lopsided?,2001/06/06,22.99,3.0,2,7,72.0,Ancient Roman Spoon,Kitchenware,,,,Group 2,40.0,Lazio,17.0,Italy,Rome
+118,119,,It's a little flute made of wood! The sound is deeper than I was expecting.,2002/10/19,45.5,15.0,2,8,86.0,Zuffolo,Miscellaneous,,,,Group 2,77.0,Veneto,17.0,Italy,Venice
+119,120,,"I never wear it because I'm too afraid of damaging the beadwork, but it looks so elegant and expensive.",2003/09/12,60.0,5.0,2,4,58.0,Blouse,Clothing,,,,Group 2,7.0,Campania,17.0,Italy,Naples
+120,121,,Sometimes I fill this up with maple syrup to pour on my pancakes.... is that a disrespectful stereotype?,2004/10/27,9.5,4.0,2,7,83.0,Maple Leaf Shotglass,Kitchenware,,,,Group 2,56.0,Ontario,4.0,Canada,Toronto
+121,122,,I love books with nature photographs... I didn't know moose (meese? mooses?) were so BIG!,2008/05/15,17.99,19.0,2,3,52.0,Moose Photographs,Book,,,,Group 2,59.0,Quebec,4.0,Canada,Montreal
+122,123,,I'm going to learn how to make borsct! It's gonna happen!,2005/12/13,15.6,17.0,2,3,53.0,Cookbook,Book,,,,Group 2,12.0,Central Russia,31.0,Russia,Moscow
+123,124,,These are honestly the best aviators I've ever worn. I'm gonna wear them until they break!,2021/01/18,14.99,6.0,2,4,23.0,Sunglasses,Clothing,,,,Group 2,44.0,Lothian,32.0,Scotland,Edinburgh
+124,125,,"It was so beautiful to see the bridge all lit up for Christmas, I'll never forget it!",2013/12/25,1.25,1.0,2,9,11.0,Story Bridge,Postcard,,,,Group 2,60.0,Queensland,2.0,Australia,Brisbane
+125,126,,This was such an incredible read.,1999/12/31,14.69,22.0,2,3,31.0,Long Walk to Freedom,Book,,,,Group 2,21.0,Gauteng,34.0,South Africa,Johannesburg
+126,127,,It's so soft and light. It really helped to keep me cool while I was visiting.,2011/06/16,35.99,7.0,2,4,17.0,Headscarf,Clothing,,,,Group 2,9.0,Casablanca-Settat,25.0,Morocco,Casablanca
+127,128,,Who knew they made special spoons for eating olives? Not me!,2006/07/08,22.25,6.0,2,7,3.0,Olive Spoon,Kitchenware,,,,Group 2,2.0,Attica,13.0,Greece,Athens
+128,129,,"Picture of the famous Patras Carnival, one of the biggest in all of Europe!",2016/04/15,0.99,1.0,2,9,67.0,Carnival Postcard,Postcard,,,,Group 2,57.0,Peloponnese,13.0,Greece,Patras
+129,130,,An overview of the designs used in the old structures and buildings in Paris.,2015/04/28,49.99,20.0,2,3,66.0,Architecture Book,Book,,,,Group 2,33.0,Ile-de-France,11.0,France,Paris
+130,131,,A picture of the beautiful beach at Cannes!,2014/11/11,1.99,1.0,2,9,15.0,Beach Postcard,Postcard,,,,Group 2,1.0,Alpes-Maritimes,11.0,France,Cannes
+131,132,,"Has ""I <3 Chicago"" on the front.",2000/01/01,12.99,5.0,2,4,18.0,Tourist Shirt,Clothing,,,,Group 2,34.0,Illinois,41.0,United States,Chicago
+132,133,,Very helpful for my algebra homework!,1998/08/19,99.99,8.0,2,8,21.0,TI-89,Miscellaneous,,,,Group 2,69.0,Texas,41.0,United States,Dallas
+133,134,,"Wow, it's made from crystalized lava!",2014/08/13,18.99,12.0,2,6,1.0,Obsidian,Geological,,,,Group 2,53.0,New South Wales,2.0,Australia,Aberdeen
+134,135,,Now I have something to wear when my German inlaws invite me to Oktoberfest.,1997/02/26,69.99,10.0,2,4,25.0,Dirndl,Clothing,,,,Group 2,30.0,Hesse,12.0,Germany,Frankfurt
+135,136,,A classic clamshell.,2000/04/19,0.0,3.5,2,8,41.0,Clamshell,Miscellaneous,,,,Group 2,14.0,Community of Madrid,36.0,Spain,Madrid
+136,137,,A book about the life of one of Brazil's most iconic pop artists of the 20th century.,2005/09/01,16.49,9.0,2,3,71.0,Jorge Ben Jor Autobiography,Book,,,,Group 2,64.0,Rio de Janeiro,3.0,Brazil,Rio de Janeiro
+137,138,,He would be so proud.,2021/09/21,12.29,2.0,2,7,71.0,Cristo Redentor Shotglass,Kitchenware,,,,Group 2,64.0,Rio de Janeiro,3.0,Brazil,Rio de Janeiro
+138,139,,"Authentic and cozy, just what I always wanted",2016/10/10,42.0,24.0,2,4,12.0,Poncho,Clothing,,,,Group 2,5.0,Buenos Aires,1.0,Argentina,Buenos Aires
+139,140,,A picture of a neighborhood with shikumen architecture.,2020/09/10,2.5,1.0,2,9,74.0,Shikumen Postcard,Postcard,,,,Group 2,16.0,East China,5.0,China,Shanghai
+140,141,,"It was really expensive and I don't know how to play it, but it's super cool.",2001/01/25,1640.0,36.0,2,8,34.0,Shamisen,Miscellaneous,,,,Group 2,37.0,Kyoto,18.0,Japan,Kyoto
+141,142,,For portioning spices like sambal,2005/10/17,6.0,3.0,2,7,76.0,Small Wooden Spoon,Kitchenware,,,,Group 2,17.0,East Java,15.0,Indonesia,Surabaya
+142,143,,I asked the bookstore clerk what they recommended and they gave me this.,2004/11/22,1.34,5.0,2,3,47.0,Like Water for Chocolate,Book,,,,Group 2,75.0,Valley of Mexico,23.0,Mexico,Mexico City
+143,144,,I think the picture it too heavily photoshopped.,2018/07/02,2.99,1.0,2,9,14.0,Beach Postcard,Postcard,,,,Group 2,61.0,Quintana Roo,23.0,Mexico,Cancun
+144,145,,Some impressionist art on a postcard from an Minneapolis artist.,2003/09/06,5.99,1.0,2,9,51.0,Minneapolis Institute of Art Postcard,Postcard,,,,Group 2,49.0,Minnesota,41.0,United States,Minneapolis
+145,146,,Bought from an antique shop. Good for bashing rats,2005/11/15,17.99,12.0,2,7,38.0,Old Pewter Spoon,Kitchenware,,,,Group 2,43.0,London,9.0,England,London
+146,147,,"I found one half of a large shell, walked a few meters, then found the other half and now keep them sitting next to each other",2001/03/30,0.0,16.0,2,8,61.0,Chiton Shell,Miscellaneous,,,,Group 2,1.0,Alpes-Maritimes,11.0,France,Nice
